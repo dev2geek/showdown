@@ -1,4 +1,4 @@
-# Showdown [![build status](https://secure.travis-ci.org/coreyti/showdown.png)](http://travis-ci.org/coreyti/showdown)
+> 7N: Minor tuning for ATA adoption
 
 A JavaScript port of Markdown
 
